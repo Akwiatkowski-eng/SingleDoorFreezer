@@ -1,5 +1,7 @@
 # SingleDoorFreezer
 
+
+#python3.8 #CoolProp
 This project is a SingleDoor refrigerator device dynamic simulator. It's main goal is to predict the temperautre varia 
 tions during device operation. It "mimics" dynamic simulation by use of steadystate equations for small timesteps and updating key values. 
 In main file(Freezer.py) all device related parameters should be defined. Postprocessing.py is used to read saved results and plot graphs.
